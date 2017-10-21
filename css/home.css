@@ -1,0 +1,18 @@
+
+.navv {
+	display: block;
+	width: 100%;
+	background-color: rgb(216,124,56);
+	height: auto;
+	overflow: auto;
+}
+
+.navv > ul > li {
+	display: inline;
+	padding: 30px ;
+	font-family: 'Raleway' , 'sans-serif';
+	float: right;
+	font-size: 17px;
+	font-weight: bold;
+	color: white;
+}
